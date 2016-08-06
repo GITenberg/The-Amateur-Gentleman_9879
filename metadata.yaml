@@ -1,0 +1,36 @@
+_repo: The-Amateur-Gentleman_9879
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farnol, Jeffery
+    aliases:
+    - Farnol, John Jeffery
+    - Farnol, Jeffrey
+    - Farnol, Jack
+    birthdate: 1878
+    deathdate: 1952
+    gutenberg_agent_id: '789'
+    url: http://www.gutenberg.org/2009/agents/789
+    wikipedia: http://en.wikipedia.org/wiki/Jeffery_Farnol
+description: Young Barnabas has just inherited a vast sum of money after his uncle's
+  death. He wishes to become a gentleman so he heads to London and meets some interesting
+  individuals on the way.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9879'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Inheritance and succession -- Fiction'
+- GITenberg
+title: The Amateur Gentleman
+url: http://www.gutenberg.org/ebooks/9879
