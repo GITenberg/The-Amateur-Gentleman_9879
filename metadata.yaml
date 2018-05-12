@@ -1,5 +1,8 @@
 _repo: The-Amateur-Gentleman_9879
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Farnol, Jeffery
@@ -15,6 +18,8 @@ creator:
 description: Young Barnabas has just inherited a vast sum of money after his uncle's
   death. He wishes to become a gentleman so he heads to London and meets some interesting
   individuals on the way.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9879#The-Amateur-Gentleman
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
